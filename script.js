@@ -86,7 +86,7 @@ const getData = () => {
         <span class="currentTemp">${parseFloat(data.main.temp - 273.15).toFixed(
           1
         )}&#8451;</span>  
-        <span class='weather-icon'><img src="http://openweathermap.org/img/wn/${icon}@2x.png" /></span>
+        <span class='weather-icon'><img src="https://openweathermap.org/img/wn/${icon}@2x.png" /></span>
       </div>
       
       <div class='row-2'>
