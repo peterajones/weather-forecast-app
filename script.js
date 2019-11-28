@@ -132,7 +132,7 @@ const getData = () => {
             ${date < 10 ? "0" + date : date}
           </div>
           <div class='icon'>
-            <img src="http://openweathermap.org/img/wn/${
+            <img src="https://openweathermap.org/img/wn/${
               forecast.list[i].weather[0].icon
             }@2x.png" />
           </div>
