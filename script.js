@@ -1,5 +1,5 @@
-const weatherURL = "http://api.openweathermap.org/data/2.5/weather";
-const forecastURL = "http://api.openweathermap.org/data/2.5/forecast";
+const weatherURL = "https://api.openweathermap.org/data/2.5/weather";
+const forecastURL = "https://api.openweathermap.org/data/2.5/forecast";
 const API_KEY = "f18ef6f1c2a4a0defca271fad600db1d";
 
 const days = [
